@@ -1,0 +1,49 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/Bit6.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/Bit4.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/AS1.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/Comunicacion_Serial.txt" FileDate="2018-03-21, 15:21:19" FileAge="1521660079948" FileType="3072" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Bit6.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/AS1.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2018-01-15, 14:06:26" FileAge="1516039586000" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/Bit1.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/TI1.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/Bit3.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/Bit1.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/TI1.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/Bit5.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/Bit3.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2018-03-21, 15:21:19" FileAge="1521660079751" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" />
+      <File Name="Generated_Code/Bit5.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/Comunicacion_Serial_SIGNALS.txt" FileDate="2018-03-21, 15:48:55" FileAge="1521661735968" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2018-03-21, 15:38:07" FileAge="1521661087734" FileType="131328" />
+      <File Name="Generated_Code/Bit2.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/AD1.h" FileDate="2018-03-21, 15:48:55" FileAge="1521661735945" FileType="45637" CompNumb="17" />
+      <File Name="Documentation/Comunicacion_Serial_Settings.xml" FileDate="2018-03-21, 15:48:56" FileAge="1521661736008" FileType="3072" />
+      <File Name="Sources/main.c" FileDate="2018-03-21, 15:48:51" FileAge="1521661731418" FileType="128" />
+      <File Name="Sources/Events.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="131328" />
+      <File Name="Generated_Code/Bit4.h" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/Bit2.c" FileDate="2018-03-19, 13:03:18" FileAge="1521478998000" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/AD1.c" FileDate="2018-03-21, 15:48:55" FileAge="1521661735934" FileType="45637" CompNumb="17" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>26</CodeGenReference>
+</CodeGenerationInfo>
