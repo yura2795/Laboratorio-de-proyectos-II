@@ -1,0 +1,5 @@
+commit 1bf639c4d7d0e38324ddf196d6c111df4ce469b2
+Author: yura2795 <yuraily277@gmail.com>
+Date:   Thu Mar 1 00:37:53 2018 +0100
+
+    Iniciamos la documentacion del codigo para comunicación serial por code warrior
